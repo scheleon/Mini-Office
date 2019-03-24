@@ -27,11 +27,9 @@
     text-align: center;
   }
   div#richTextArea {
-      border: 2px solid rgb(40,110,89);
-      padding: 5px; 
       background-color: rgb(255, 255, 255); background-image: linear-gradient(90deg, transparent 79px, rgb(171, 206, 212) 79px, rgb(171, 206, 212) 81px, transparent 81px), linear-gradient(rgb(238, 238, 238) 0.1em, transparent 0.1em); background-size: 100% 1.2em; --darkreader-inline-bgcolor:#17181c; --darkreader-inline-bgimage:linear-gradient(90deg, rgba(0, 0, 0, 0) 79px, #223e43 79px, #223e43 81px, rgba(0, 0, 0, 0) 81px), linear-gradient(#1b1d22 0.1em, rgba(0, 0, 0, 0) 0.1em);
       height: 100%;
-      width: 98.5%;
+      width: 100%;
   }
 
   div#theRibbon > img {
